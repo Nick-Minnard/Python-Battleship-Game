@@ -1,1 +1,1 @@
-Went from dictionary based coordinate storage to tuple based coordinate storage
+I went from dictionary based coordinate storage to tuple based coordinate storage because I realized the massive key I made served no purpose but to add another hoop for the coordinates to jump through before they were at their intended destination.
