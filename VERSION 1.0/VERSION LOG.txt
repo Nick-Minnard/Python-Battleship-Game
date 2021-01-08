@@ -1,0 +1,11 @@
+Started at 10 am and finished at midnight.
+
+Just shy of 500 lines.
+
+Off the wim of a suggestion from Mr. Webb.
+
+Not very clean code.
+
+Suprisingly good error handling.
+
+Functionality almost perfect.
