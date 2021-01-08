@@ -1,11 +1,11 @@
-Started at 10 am and finished at midnight.
+Started at 10 am and finished 14 hours later at midnight.
 
 Just shy of 500 lines.
 
-Off the wim of a suggestion from Mr. Webb.
+Off the wim of a suggestion from Mr. Webb a coding class teacher.
 
-Not very clean code.
+Terrible code, not clean at all, very repetative.
 
-Suprisingly good error handling.
+Suprisingly good error handling throughout the session.
 
-Functionality almost perfect.
+Almost all intended functionality is working.
