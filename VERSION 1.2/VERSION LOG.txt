@@ -1,1 +1,7 @@
-BLACNJNCLK
+The final version!
+
+I reduced almost all unnecessary repetition especially in the draw method of the ship class.
+
+I fully commented and organized the code.
+
+I finalized all visual aspects.
