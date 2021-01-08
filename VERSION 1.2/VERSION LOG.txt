@@ -4,4 +4,4 @@ I reduced almost all unnecessary repetition especially in the draw method of the
 
 I fully commented and organized the code.
 
-I finalized all visual aspects.
+I finalized all visual and functional aspects.
